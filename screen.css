@@ -221,6 +221,14 @@ header{
 }
 
 .infoform{
+	margin: auto;
+	width: 50%;
 	padding: 20px;
 }
 
+
+.custInfo{
+	margin: auto;
+	width: 50%;
+	text-align: center;
+}
