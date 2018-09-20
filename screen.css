@@ -217,6 +217,7 @@ textarea {
 body{
 	background-color: grey;
 }
+
 header{
 	margin: auto;
 	text-align: center;
@@ -241,4 +242,22 @@ h1{
 }
 
 @media only screen and (max-width: 480px){
+	body{
+		background-color: grey;
+	}
+	
+	header{
+		text-align: center;
+		width: 100%;
+		font-size: 1em;
+	}
+	
+	.infoform{
+		margin: 20px;
+	}
+	
+	.custInfo{
+		width: 100%;
+		text-align: center;
+	}
 }
