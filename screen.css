@@ -214,6 +214,9 @@ textarea {
 }
 /*End Normalize*/
 
+body{
+	background-color: grey;
+}
 header{
 	margin: auto;
 	text-align: center;
@@ -235,4 +238,7 @@ h1{
 	margin: auto;
 	width: 50%;
 	text-align: center;
+}
+
+@media only screen and (max-width: 480px){
 }
