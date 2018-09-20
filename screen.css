@@ -213,3 +213,14 @@ textarea {
   font: inherit; /* 2 */
 }
 /*End Normalize*/
+
+header{
+	margin: auto;
+	text-align: center;
+	padding: 15px;
+}
+
+.infoform{
+	padding: 20px;
+}
+
